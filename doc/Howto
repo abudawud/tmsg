@@ -1,0 +1,18 @@
+i will explain how to use this programe
+
+for the first time you didn't have any of messege. So you need
+to make it firstly and you cannot use tmsg for this time.
+
+1. run mpad program
+   - there is iformation about Master and Index. this is define where your messege will be stored
+     Master = 0   Index = #0  mean your messege will stored in file named msg0 with index #0
+   - type your messege title/header then press enter
+   - type your messege. JUST TYPE YOUR MESSEGE AND NEVER CARE ABOUT LAYOUT OF WHAT YOU TYPE!
+   - after you done, pres enter and press Ctrl + D  (EOF instruction)
+   - verify your messege, and press 'Y' if you sure with your messege
+   - messege database(msg0) has been updated and now you have one messege.
+   - conf file has been updated
+2. now you can run tmsg program
+
+
+if you want to edit your messege, you can edit manually using your favorite text editor.
