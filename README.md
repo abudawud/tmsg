@@ -18,6 +18,11 @@ Both mpad and tmsg will read and write conf file where the information about
 messege is stored. So never chage the configuration file except you know what
 you do
 
+* **tmsg**
+![Terminal Message](https://github.com/abudawud/tmsg/blob/master/doc/tmsg.png)
+
+* **mpad**
+![Messege Paddin](https://github.com/abudawud/tmsg/blob/master/doc/mpad.png)
 ##AUTHOR
 written by Ahmad Waris Al H.
 e-mail   : warishafidz@gmail.com
