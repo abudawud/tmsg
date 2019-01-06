@@ -1,4 +1,4 @@
-##Terminal Messege(tmsg) and Messege Padding (mpad)
+# Terminal Messege(tmsg) and Messege Padding (mpad)
 
 tmsg is a programe to show messege when a user open new terminal in GNU/Linux
 Operating System. When a user open new terminal tmsg will open messege data-
@@ -18,20 +18,21 @@ Both mpad and tmsg will read and write conf file where the information about
 messege is stored. So never chage the configuration file except you know what
 you do
 
-* **tmsg**
+* tmsg
 ![Terminal Message](https://github.com/abudawud/tmsg/blob/master/doc/tmsg.png)
 
-* **mpad**
+* mpad
 ![Messege Paddin](https://github.com/abudawud/tmsg/blob/master/doc/mpad.png)
-##AUTHOR
+
+# AUTHOR
 written by Ahmad Waris Al H.
 e-mail   : warishafidz@gmail.com
 
-##LICENSE
+# LICENSE
 This project is free software, released under the GPL v3 license. 
 please refer to www.gnu.org
 
-##About
+# About
 i write this program just for hobby, so if you found a bug or not suite to you,
 you can modify it as you want. contact me if you have any question(s) or suggestion.
 
